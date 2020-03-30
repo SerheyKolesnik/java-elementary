@@ -1,5 +1,5 @@
 /*
-You are given a function describeAge that takes a parameter age (which
+You are given a function describeAge that takes a parameter age(which
 will always be a positive integer) and does the following:
 If the age is 12 or lower, it return "You're a(n) kid"
 If the age is anything between 13 and 17 (inclusive), it return "You're a(n)teenager"
