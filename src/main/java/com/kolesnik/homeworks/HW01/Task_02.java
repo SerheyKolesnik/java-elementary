@@ -49,5 +49,4 @@ public class Task_02 {
         System.out.println("HumanYears: " + humanYears
                 + "\nCatYears: " + catYears + "\nCatYears: " + dogYears);
     }
-
 }

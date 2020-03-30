@@ -1,4 +1,4 @@
-package com.kolesnik;
+package com.kolesnik.sendbox;
 
 public class test {
     public static void main(String[] args) {
