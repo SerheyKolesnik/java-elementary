@@ -11,13 +11,8 @@ package com.kolesnik.homeworks.HW03;
 
 public class Task_04 {
     public static void main(String[] args) {
-        int age = 45;
-        String paramAge = "";
-        if (age < 0) paramAge = "Age entered incorrectly";
-        else if (age <= 12) paramAge = "You're a(n) kid";
-        else if (age >= 13 && age <= 17) paramAge = "You're a(n)teenager";
-        else if (age >= 18 && age <= 65) paramAge = "You're a(n) adult";
-        else if (age > 65) paramAge = "You're a(n) elderly";
-        System.out.println("Age " + age + "\n" + paramAge);
+        int age = 17;
+        System.out.println("Age " + age + "\nYou're a(n) "
+                + ((age < 12) ? "Kid" : (age <= 17) ? "teenager" : (age <= 65) ? "adult" : "elderly"));
     }
 }
