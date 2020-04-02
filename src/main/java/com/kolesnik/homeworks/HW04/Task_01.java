@@ -12,6 +12,7 @@ public class Task_01 {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = RandomNum(10);
         }
+
         System.out.println(Arrays.toString(arr));
         System.out.println("Minimal item in array " + MinItemNumber(arr)
                 + " is value number " + arr[MinItemNumber(arr)]);

@@ -14,6 +14,7 @@ public class Task_03 {
         fillArray(arr1);
         fillArray(arr2);
         compareArr(arr1, arr2);
+
     }
 
     private static void fillArray(int[] arr) {

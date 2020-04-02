@@ -2,6 +2,7 @@
 • * Write a program which checks if given number is
 STRONG, i.e. the sum of the factorials of its digits is equal
 to number itself: 1! + 4! + 5! = 1 + 24 + 120 = 145
+
  */
 package com.kolesnik.homeworks.HW04;
 

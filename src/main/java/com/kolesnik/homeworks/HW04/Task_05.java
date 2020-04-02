@@ -9,6 +9,7 @@ public class Task_05 {
         String s = "10010001";
         binar(i);
         decimal(s);
+
     }
 
     public static void binar(int number) {
