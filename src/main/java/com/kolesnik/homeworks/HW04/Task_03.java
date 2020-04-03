@@ -1,6 +1,6 @@
 /*
 Write a program which calculates the sum of two columns.
-Print table with results if columns have the same size (col_1| col_2 | sum).
+Print table with results if columns have the same size (col_1| col_2 | sum)
 Otherwise print which column has bigger size
  */
 package com.kolesnik.homeworks.HW04;

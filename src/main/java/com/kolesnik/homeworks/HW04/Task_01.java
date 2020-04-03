@@ -1,5 +1,5 @@
 /*
-Write a program which finds minimal number in int array
+Write a program which finds minimal number in int array.
  */
 package com.kolesnik.homeworks.HW04;
 

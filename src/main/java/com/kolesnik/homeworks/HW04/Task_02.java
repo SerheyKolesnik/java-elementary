@@ -1,5 +1,5 @@
 /*
- Write a program which checks if a string (array of chars) is a palindrome
+ Write a program which checks if a string (array of chars) is a palindrome.
  */
 package com.kolesnik.homeworks.HW04;
 
